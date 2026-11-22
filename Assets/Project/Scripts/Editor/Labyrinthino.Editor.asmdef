@@ -1,0 +1,7 @@
+{
+  "name": "Labyrinthino.Editor",
+  "rootNamespace": "Labyrinthino.Editor",
+  "references": [ "Labyrinthino.Game", "UnityEngine.UI", "Unity.InputSystem" ],
+  "includePlatforms": [ "Editor" ],
+  "autoReferenced": false
+}

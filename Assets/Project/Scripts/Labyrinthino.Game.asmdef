@@ -1,0 +1,9 @@
+{
+  "name": "Labyrinthino.Game",
+  "rootNamespace": "Labyrinthino",
+  "references": [
+    "Unity.InputSystem",
+    "UnityEngine.UI"
+  ],
+  "autoReferenced": true
+}
